@@ -59,13 +59,13 @@ const safouankh: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-**Philosophers**
+**MINISHELL**
 
 A featured build from this profile.
 
 `C` · `0 stars`
 
-<a href="https://github.com/safouankh/Philosophers"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/safouankh/minishell-42"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -94,13 +94,13 @@ A featured build from this profile.
 </td>
 <td width="50%" valign="top">
 
-**CPP08**
+**WEB-SERV**
 
 A featured build from this profile.
 
 `C++` · `0 stars`
 
-<a href="https://github.com/safouankh/CPP08"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/safouankh/WEB-SERV"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
 </td>
 </tr>
