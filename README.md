@@ -134,12 +134,6 @@ A featured build from this profile.
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=safouankh&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=safouankh&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130808239%3Fu%3D8d23acb5d6a94d5da4b1aae23372d584736d782b%26v%3D4" alt="safouankh heatmap visual" />
-</p>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=safouankh&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
 ## 🏆 Beyond the Code
 
 * 🧠 **Profile signal:** 65 contributions in the last year
